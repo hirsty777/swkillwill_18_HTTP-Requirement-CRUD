@@ -1,9 +1,9 @@
+import ToDoPage from './pages/ToDoPage';
 import './styles/App.css';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <ToDoPage />
   );
 }
 

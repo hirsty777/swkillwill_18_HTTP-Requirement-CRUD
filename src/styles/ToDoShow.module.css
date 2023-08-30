@@ -1,0 +1,19 @@
+.wrapper{
+    width: 100%;
+    min-height: 50px;
+    padding: 5px 10px;
+    height: auto;
+    background-color: rgb(212, 209, 209);
+    border-radius: 5px;
+     
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.checkbox{
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+}
